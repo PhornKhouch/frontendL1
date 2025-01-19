@@ -1,9 +1,9 @@
 -- Github and Git--------
 1- What is Github ? 
     - Repository ? 
-    - Clone 
     - Branch 
     - commit code 
+    - Clone 
     - Pull code 
     - Push code 
     - collaborator
